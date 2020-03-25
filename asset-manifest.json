@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weatherapp-react-redux-immutable/static/css/main.02c0bc0d.chunk.css",
+    "main.js": "/weatherapp-react-redux-immutable/static/js/main.a32159f3.chunk.js",
+    "main.js.map": "/weatherapp-react-redux-immutable/static/js/main.a32159f3.chunk.js.map",
+    "runtime-main.js": "/weatherapp-react-redux-immutable/static/js/runtime-main.78d67902.js",
+    "runtime-main.js.map": "/weatherapp-react-redux-immutable/static/js/runtime-main.78d67902.js.map",
+    "static/js/2.ac350f3c.chunk.js": "/weatherapp-react-redux-immutable/static/js/2.ac350f3c.chunk.js",
+    "static/js/2.ac350f3c.chunk.js.map": "/weatherapp-react-redux-immutable/static/js/2.ac350f3c.chunk.js.map",
+    "index.html": "/weatherapp-react-redux-immutable/index.html",
+    "precache-manifest.56f3736c3ef675872d1e09e4ffb9b375.js": "/weatherapp-react-redux-immutable/precache-manifest.56f3736c3ef675872d1e09e4ffb9b375.js",
+    "service-worker.js": "/weatherapp-react-redux-immutable/service-worker.js",
+    "static/css/main.02c0bc0d.chunk.css.map": "/weatherapp-react-redux-immutable/static/css/main.02c0bc0d.chunk.css.map",
+    "static/js/2.ac350f3c.chunk.js.LICENSE.txt": "/weatherapp-react-redux-immutable/static/js/2.ac350f3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78d67902.js",
+    "static/js/2.ac350f3c.chunk.js",
+    "static/css/main.02c0bc0d.chunk.css",
+    "static/js/main.a32159f3.chunk.js"
+  ]
+}
